@@ -1,9 +1,6 @@
----
-title: Web服务器配置问题 (Some Problems in Web Server Configuration)
-date: 2017-12-25 14:02:09
-tags: [Configuration]
-categories: [Web]
----
+# Web服务器配置问题 (Some Problems in Web Server Configuration)
+Date: 2017-12-25    
+Author：Barret    
 
 ## Apache                  
 
@@ -24,3 +21,8 @@ Listen *:8888
     deny from all
 </directory>               
 ```
+
+
+
+> 本文作者--Barret Xiong--    
+> 转载请注明出处！

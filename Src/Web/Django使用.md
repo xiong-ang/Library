@@ -1,9 +1,6 @@
----
-title: Django使用(Some Problems in Using Django)
-date: 2017-11-13 11:32:00
-tags: [Python,Django]
-categories: [Web]
----
+# Django使用(Some Problems in Using Django)
+Date: 2017-11-13      
+Author：Barret    
 ## python虚拟环境建立                
 ```              
 # Windows:                 
@@ -82,7 +79,7 @@ def index(request):
     return render_to_response('2.html',{'name':'hello'})
 ```                     
 
-# 模型开发与数据库交互                   
+## 模型开发与数据库交互                   
 可以在setting.py中配置数据库        
 ```                      
 # model.py
@@ -93,11 +90,13 @@ class mymodel(models.Model):
 
 这样的类有一些操作数据库的方法，这相当于django对各种数据库提供了一个facade                             
 
-# Django后台管理                       
+## Django后台管理                       
 将自定义类型加入后台管理：           
 ```                   
 # admin.py
 from django.contrib import admin
 admin.site.register(Myclass)
-```                              
+```         
+> 本文作者--Barret Xiong--    
+> 转载请注明出处！                       
 

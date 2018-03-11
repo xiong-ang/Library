@@ -1,9 +1,7 @@
----
-title: C#序列化(Serialization in C#)
-date: 2018-01-01 20:11:21
-tags: [Serialization, C#]
-categories: C#
----
+# C#序列化(Serialization in C#)
+Date: 2018-01-01      
+Author：Barret   
+
 ## 序列化与反序列化             
 1. 定义                     
 > 序列化(Serialize)将对象的状态信息转换为可以存储或传输的形式的过程。在序列化期间，对象将其当前状态写入到临时或持久性存储区。以后，可以通过从存储区中读取或反序列化(Deserialize)对象的状态，重新创建该对象。                               
@@ -29,3 +27,6 @@ JSON序列化：与XML序列化类似，将public字段序列化成JSON格式，
 1. 要让一个对象支持.Net序列化服务，用户必须为每一个关联的类加上[Serializable]特性。如果类中有些成员不适合参与序列化（比如：密码字段），可以在这些域前加上[NonSerialized]特性                           
 2. OptionalField表示可选字段，如果软件版本更新，多出一些字段，可使用[OptionalField]特性，可保证各版本文件的兼容                         
 3. Serializationbinder是抽象类，用于控制在序列化和反序列化期间使用的实际类型，在序列化内容转移时尤为有用 [参考](https://msdn.microsoft.com/zh-cn/library/ffas09b2)          
+
+> 本文作者--Barret Xiong--    
+> 转载请注明出处！

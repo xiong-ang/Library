@@ -1,9 +1,6 @@
----
-title: Docker使用（Some Problems in Using Docker）
-date: 2017-12-25 14:02:20
-tags: [Docker]
-categories: [Cloud]
----
+# Docker使用（Some Problems in Using Docker）
+Date: 2017-12-25       
+Author：Barret    
 
 ## 安装Docker                                     
 
@@ -112,3 +109,5 @@ docker commit image_ID new_image_name
 # 让Docker守护进程守护Django Server进程
 docker run -d -p 8080:8000 ubuntu/django /usr/bin/python3 /home/firstproject/manage.py runserver 0.0.0.0:8000
 ```                                        
+> 本文作者--Barret Xiong--    
+> 转载请注明出处！

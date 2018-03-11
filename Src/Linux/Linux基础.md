@@ -1,14 +1,12 @@
----
-title: Linux基础
-date: 2017-11-19 12:38:40
-tags: Linux
-categories: Linux
----
-# Linux初步介绍                    
+# Linux基础
+Date: 2017-11-19     
+Author：Barret     
+
+## Linux初步介绍                    
 1. 特点：免费/开源、支持多用户、安全          
 2. linux最小内存需要4M        
 
-# 基本命令            
+## 基本命令            
 1. 关机: shutdown -h now         
 2. 重启: shutdown -r now         
 3. 重启: reboot                  
@@ -35,14 +33,14 @@ categories: Linux
 24. 查看历史命令: history n              
 25. 执行历史命令: !n
 
-# vi编辑器                              
+## vi编辑器                              
 1. 创建文件: vi  文件名          
 2. 三种模式:1.Comandmode-->控制屏幕光标的移动，字符或光标的删除，移动复制某区段；2.Insertmode：-->文字数据输入;3.Lastline mode-->将储存文件或离开编辑器，也可设置编辑环境[命令总结](https://www.cnblogs.com/jiayongji/p/5771444.html)                       
 
-# Linux文件目录                    
+## Linux文件目录                    
 1. 特点: 级层式的树状目录结构                   
 2. 整体目录结构图                              
-![](https://github.com/xiong-ang/xiong-ang.github.io/blob/Hexo/MyBlog/MyBlog/images/FileSystem.png?raw=true)                      
+![](https://github.com/xiong-ang/Library/blob/master/Pic/FileSystem.png?raw=true)                      
 3. root:存放root用户相关的文件               
 4. home:存放普通用户的相关文件               
 5. bin: 存放普通命令的目录                   
@@ -53,13 +51,13 @@ categories: Linux
 10. etc: 存放配置相关的文件                  
 11. var: 存放经常变化的文件                             
 
-# Linux用户管理                     
+## Linux用户管理                     
 1. 添加用户: useradd 用户名                  
 2. 设置密码: passwd 用户名                   
 3. 删除用户: userdel 用户名                  
 4. 删除用户及主目录: userdel -r 用户名                        
 
-# Linux用户组和权限管理                
+## Linux用户组和权限管理                
 1. Linux中每一个用户都属于某个组                    
 2. 添加组: groupadd 组名                           
 3. 查看所有组文件: /etc/group                      
@@ -71,7 +69,7 @@ categories: Linux
 9. 修改文件所有者: chown 用户名 文件名           
 10. 修改文件所有组: chgrp 组名 文件名                               
 
-# Linux常用技巧                  
+## Linux常用技巧                  
 1. 运行级别:0-->关机；1-->单用户；2-->多用户，没有网络；3-->多用户，用网络；4-->系统保留；5-->图形界面；6-->系统重启。修改：/etc/inittab - id:5:initdefault:。如果配置错误，在进入grub引导页面按“e”，再按“e”，在grub输入1进入单用户模式修改                      
 2. 挂载/卸载分区文件: 1.挂载光驱: mount /mnt/cdrom/;2.卸载光驱: umount /mnt/cdrom;            
 3. Linux不由后缀区分可执行文件，有x权限的文件是可执行文件，执行可执行文件:./文件名               
@@ -80,3 +78,6 @@ categories: Linux
 5. Linux安装: 1.分区：/boot分区 100M；swap交换分区 一般是物理内存的两倍，不要大于256M；/根分区 尽可能大；2.swap相当于扩展内存，在系统的物理内存不够用的时候，该空间供当前运行的程序使用                                
 6. Linux Shell:1.查看当前使用的shell:env;2.修改shell:chsh -s 新的shell如/bin/csh           
 7. 安装.deb文件: dpkg -i 安装包名字     
+
+> 本文作者--Barret Xiong--    
+> 转载请注明出处！

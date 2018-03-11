@@ -1,10 +1,8 @@
----
-title: C# Clipboard使用（How to Use Clipboard in C#）
-date: 2017-10-29 21:41:31
-tags: [Clipboard, C#]
-categories: C#
----
-# **Clipboard引荐**
+# C# Clipboard使用（How to Use Clipboard in C#）
+Date: 2017-10-29         
+Author：Barret                
+
+## **Clipboard引荐**
 > Clipboard，即剪切板，当我们同时按动Ctrl＋C时，选定的对象就被存放在了剪切板中了。如果刚才选定的对象是文件，那么在定盘符后，按动Ctrl＋V键或者点击菜单“粘贴”，这时选定的文件就保存到指定的磁盘上面了；如果选定的对象是图象，那么在打开“画图”之后，按动Ctrl＋V键或者点击菜单“粘贴”，图象就会显示在画图中了；如果是文本，那么在打开文本编辑器后，按动Ctrl＋V键或者点击菜单“粘贴”，这时文本就会显示在文本编辑器中。当然选定的对象还有许多种，这就不一一举例了。上面这些操作其实就是剪切板几种典型的操作。那么这些操作如果用Visual C＃来实现到底是个什么样子？  
 微软引入**Clipboard类**进行处理，我们先来介绍[MSDN](https://msdn.microsoft.com/zh-cn/library/system.windows.forms.clipboard.aspx)上的一个例子进入今天的讨论。   
 
@@ -40,7 +38,7 @@ private void button1_Click(object sender, System.EventArgs e) {
 
 从这个例子可以学到Clipboard的最基本用法：用SetDataObjec将数据存入系统剪切板；用GetDataObject从系统剪切板获取数据。  
 
-# **使用Clipboard保存/获取各种媒体**   
+## **使用Clipboard保存/获取各种媒体**   
 
 以实际操作的经验，剪切板不仅可以拷贝文字，还可以拷贝图片、文件，当然，通过程序，还可以让Clipboard保存音频和自定义类型。下面针对这些功能分别加以介绍。  
 
@@ -189,7 +187,7 @@ public static object GetDataFromClipboardByType(string type)
 }
 ```     
 
-# **让窗体自动响应Clipboard的变化**   
+## **让窗体自动响应Clipboard的变化**   
 
 让窗体自动响应Clipboard的变化这是一个非常酷的功能，实现这个需求并不难，大致分四步：   
 
@@ -261,12 +259,14 @@ private void Form_Closed(object sender, System.EventArgs e)
 }
 ```       
 
-# **解决Clipboard冲突**   
+## **解决Clipboard冲突**   
 * 待补充       
 
-# **[[Demo](https://github.com/xiong-ang/CShape_SLN)]**   
+## **[[Demo](https://github.com/xiong-ang/CShape_SLN)]**   
 * **界面**   
 ![Alt text](https://github.com/xiong-ang/CShape_SLN/blob/master/Image/ClipBoard.PNG?raw=true)     
 
 * **功能**   
-自动捕捉剪切板变化，并显示其中的文字、图片、文件以及自定义类型。
+自动捕捉剪切板变化，并显示其中的文字、图片、文件以及自定义类型。     
+> 本文作者--Barret Xiong--    
+> 转载请注明出处！

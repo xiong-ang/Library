@@ -1,9 +1,6 @@
----
-title: EngjoyDrawing总结(EnjoyDrawing Summary)
-date: 2017-11-11 20:55:20
-tags: [C#,WPF,MVVM]
-categories: [Just Do It]
----
+# EngjoyDrawing总结(EnjoyDrawing Summary)
+Date: 2017-11-11      
+Author：Barret    
 ## Command模式实现Redo和Undo                       
 图形处理软件中Redo/Undo往往都是非常重要的功能，这里需要用到Command模式，将编辑图形的行为封装成Action，而每个Action有Do/Redo/Undo            
 
@@ -18,12 +15,12 @@ categories: [Just Do It]
 这些都有一些现成的工具可以使用，善于重用别人的代码             
 
 ## 延迟签名
-SNK
-http://www.cnblogs.com/yangecnu/archive/2013/01/01/2841235.html
-PFX
+SNK   
+http://www.cnblogs.com/yangecnu/archive/2013/01/01/2841235.html   
+PFX     
 http://blog.csdn.net/zj510/article/details/39964533
 http://blog.csdn.net/luminji/article/details/3960308
-http://blog.csdn.net/laotse/article/details/6302333             
+http://blog.csdn.net/laotse/article/details/6302333               
 商业的化的产品一般采用延迟签名技术                               
 
 ## MVVM实现UI与逻辑分离
@@ -38,4 +35,6 @@ XML的处理有很多种，掌握一种非常重要，C#框架支持这种处理
 ## PerformanceRecord
 一种代码的积累                 
 
-[参考代码](https://github.com/xiong-ang/EnjogDrawing)
+[参考代码](https://github.com/xiong-ang/EnjogDrawing)               
+> 本文作者--Barret Xiong--    
+> 转载请注明出处！
