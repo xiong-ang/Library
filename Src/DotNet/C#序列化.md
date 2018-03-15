@@ -23,6 +23,15 @@ JSON序列化：与XML序列化类似，将public字段序列化成JSON格式，
 ## 序列化实现方式                  
 [代码实现](https://github.com/xiong-ang/CShape_SLN)                     
 
+## 补充分析      
+1. [Serializable] ：Binary序列化必须要求序列化对象标记[Serializable]；XML和Json序列化不要求         
+2. Interface序列化：XML不可序列化；Json可以序列化，不可以反序列化；Binary既可以序列化，也可以反序列化。因此，如果类成员变量有接口或抽象类，要么用Binary序列化，要么进行封装                  
+3. 泛型序列化：XML不可序列化；Binary和Json可以序列化，如Dictionary<>               
+4. 序列化与dll签名：Binary序列化包含签名信息；XML包含类名；Json只包含属性值              
+5. 是否要求默认构造函数：XML和Json要求默认构造函数，Binary不需要                        
+6. [测试代码](https://github.com/xiong-ang/CShape_SLN)
+
+
 ## 注意事项                  
 1. 要让一个对象支持.Net序列化服务，用户必须为每一个关联的类加上[Serializable]特性。如果类中有些成员不适合参与序列化（比如：密码字段），可以在这些域前加上[NonSerialized]特性                           
 2. OptionalField表示可选字段，如果软件版本更新，多出一些字段，可使用[OptionalField]特性，可保证各版本文件的兼容                         
