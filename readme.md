@@ -35,8 +35,10 @@
     + [Django使用](https://github.com/xiong-ang/Library/blob/master/Src/Web/Django%E4%BD%BF%E7%94%A8.md)
     + [Web服务器配置问题](https://github.com/xiong-ang/Library/blob/master/Src/Web/Web%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%85%8D%E7%BD%AE%E9%97%AE%E9%A2%98.md)     
 - Front-end    
-    + [ES6-Angularjs 写法总结]()      
+    + [ES6-Angularjs 写法总结](https://github.com/xiong-ang/Library/blob/master/Src/Front-end/ES6-AngularJS1.x%E5%86%99%E6%B3%95.md)      
 
 ## Pending                    
 - Refactor 
-    + [重构 改善既有代码设计]()
+    + [重构 改善既有代码设计]()            
+- Front-end Test     
+- SignalR
