@@ -10,7 +10,7 @@
 <!-- /TOC -->
 > AngularJS提供了$emit, $broadcast和$on服务用于控制器之间基础事件的传递交流          
 
-![](https://github.com/xiong-ang/Library/blob/master/Pic/event.png?raw=true)              
+![](https://github.com/xiong-ang/Library/blob/master/Pic/Event.png?raw=true)              
 
 ## $emit       
 该服务贯穿作用域发出一个向上的事件，并通知哪些注册在rootScope.Scope上的监听器。该事件的生命周期开始于emit被启动的地方，事件一直朝着根作用域传递，传递期间并通知哪些注册在作用域上的监听器。       
