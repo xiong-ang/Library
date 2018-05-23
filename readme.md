@@ -21,7 +21,9 @@
     + [NXCOMPACT位标志与C#编译器](https://github.com/xiong-ang/Library/blob/master/Src/DotNet/NXCOMPACT%E4%BD%8D%E6%A0%87%E5%BF%97%E4%B8%8EC%23%E7%BC%96%E8%AF%91%E5%99%A8.md)
 - Git       
     + [Git代码上传方式记录](https://github.com/xiong-ang/Library/blob/master/Src/Git/Git%E4%BB%A3%E7%A0%81%E4%B8%8A%E4%BC%A0%E6%96%B9%E5%BC%8F%E8%AE%B0%E5%BD%95.md)    
-    + [Git使用详细教程(From CSDN)](https://blog.csdn.net/free_wind22/article/details/50967723)            
+    + [Git使用详细教程(From CSDN)](https://blog.csdn.net/free_wind22/article/details/50967723)      
+    + [Git fetch & pull 详解](https://blog.csdn.net/qq_36113598/article/details/78906882)       
+     
 - Just Do It       
     + [EngjoyDrawing总结](https://github.com/xiong-ang/Library/blob/master/Src/JustDoIt/EngjoyDrawing%E6%80%BB%E7%BB%93.md)
 - Linux       
