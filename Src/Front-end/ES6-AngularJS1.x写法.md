@@ -73,7 +73,7 @@ export default{
 import MyCom from '...';
 MyModule.component('MyComp',MyComp);
 //or
-MyModule.directive('MyComp',MyComp);
+MyModule.directive('MyComp',MyComp);    
 ```    
 
 ## service      
@@ -96,6 +96,18 @@ export default MySvr;
 MyModule.service('MySrv',MySrv);
 //Or
 MyModule.factory('MySrv',()=>{return new MySrv});
+
+//Use
+MySrv.*;   
+
+
+
+//Or
+MyModule.factory('MySrv',()=>{return MySrv});
+
+//Use
+let srv = new MySrv;
+srv.*;
 ```
 
 
