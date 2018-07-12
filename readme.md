@@ -20,7 +20,8 @@
     + [C#中实现控件拖拽效果](https://github.com/xiong-ang/Library/blob/master/Src/DotNet/C%23%E4%B8%AD%E5%AE%9E%E7%8E%B0%E6%8E%A7%E4%BB%B6%E6%8B%96%E6%8B%BD%E6%95%88%E6%9E%9C.md)
     + [NXCOMPACT位标志与C#编译器](https://github.com/xiong-ang/Library/blob/master/Src/DotNet/NXCOMPACT%E4%BD%8D%E6%A0%87%E5%BF%97%E4%B8%8EC%23%E7%BC%96%E8%AF%91%E5%99%A8.md)
 	+ [.Net异步编程](https://github.com/xiong-ang/AsyncInDotNet/blob/master/readme.md)         
-    + [Linq](https://github.com/xiong-ang/LINQDemo)         
+    + [Linq](https://github.com/xiong-ang/LINQDemo)            
+    + [How to receive WndProc messages in WPF](https://github.com/xiong-ang/Library.git)
 
 - Git       
     + [Git代码上传方式记录](https://github.com/xiong-ang/Library/blob/master/Src/Git/Git%E4%BB%A3%E7%A0%81%E4%B8%8A%E4%BC%A0%E6%96%B9%E5%BC%8F%E8%AE%B0%E5%BD%95.md)    
