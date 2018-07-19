@@ -41,7 +41,8 @@
 - Web       
     + [Django使用](https://github.com/xiong-ang/Library/blob/master/Src/Web/Django%E4%BD%BF%E7%94%A8.md)
     + [Web服务器配置问题](https://github.com/xiong-ang/Library/blob/master/Src/Web/Web%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%85%8D%E7%BD%AE%E9%97%AE%E9%A2%98.md)       
-    + [ASP.Net MVC(CodeProject)](https://www.codeproject.com/Articles/866143/Learn-MVC-step-by-step-in-days-Day)  
+    + [ASP.Net MVC(CodeProject)](https://www.codeproject.com/Articles/866143/Learn-MVC-step-by-step-in-days-Day)       
+    + [SignalR](https://github.com/xiong-ang/SignalRDemo)             
 
 - Front-end    
     + [ES6-Angularjs 写法总结](https://github.com/xiong-ang/ES6-AngularJS1.x/blob/master/readme.md)      
@@ -51,10 +52,12 @@
     
 - Interop       
     + [C++/CLI学习总结](https://github.com/xiong-ang/Library/blob/master/Src/Interop/C%2B%2BCLI%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93.md)                
- - Node       
+- Node       
     + [创建npm库](https://github.com/xiong-ang/Library/blob/master/Src/Node/%E5%88%9B%E5%BB%BAnpm%E5%BA%93.md)     
 
-
+- RegExpre         
+    + [正则表达式]()                      
+    
 ## Pending                    
 - Refactor 
     + [重构 改善既有代码设计]()            
