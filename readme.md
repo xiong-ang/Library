@@ -72,6 +72,11 @@
 - RegExpre         
 
     + [正则表达式](https://github.com/xiong-ang/Library/blob/master/Src/RegExpre/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)                      
+- Security
+	+ OAuth2.0
+		* [基本理论](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
+		* [应用举例](https://developer.linkedin.com/zh-cn/docs/oauth2)
+		* [基本实现(待补充)](待补充)
 - [C++ Code Library](https://github.com/xiong-ang/CPPCodeLibrary) 
 
 ## Pending                    
