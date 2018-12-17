@@ -63,6 +63,7 @@
     + [AngularJS UI-Router](https://www.cnblogs.com/haogj/p/4885928.html)             
     + [React学习笔记](https://github.com/xiong-ang/React_ToDoList)               
 	+ [Javascript运行机制](http://www.ruanyifeng.com/blog/2014/10/event-loop.html)           
+	+ [Cros和Jsonp实现跨域](https://www.jianshu.com/p/94946ca90194)
 
 - Interop       
 
