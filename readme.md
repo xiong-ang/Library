@@ -81,11 +81,13 @@
   	* [基本理论](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
   	* [应用举例](https://developer.linkedin.com/zh-cn/docs/oauth2)
   	* [基本实现(待补充)](待补充)
-- [C++ Code Library](https://github.com/xiong-ang/CPPCodeLibrary) 
+- [C++ Code Library](https://github.com/xiong-ang/CPPCodeLibrary)                 
 
-## Pending                    
-- Refactor 
-    + [重构 改善既有代码设计]()            
+- Refactor              
+    + [重构 改善既有代码设计]()              
+	+ [六大设计原则](https://www.cnblogs.com/dolphin0520/p/3919839.html)       
+
+## Pending                               
 - Front-end Test     
 - P/Invoke    
 - Com Interop    
