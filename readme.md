@@ -85,7 +85,10 @@
 
 - Refactor              
     + [重构 改善既有代码设计]()              
-	+ [六大设计原则](https://www.cnblogs.com/dolphin0520/p/3919839.html)       
+	+ [六大设计原则](https://www.cnblogs.com/dolphin0520/p/3919839.html)           
+
+- Efficiency              
+	+ [Emmet + VS Code](http://www.cnblogs.com/summit7ca/p/6944215.html)
 
 ## Pending                               
 - Front-end Test     
