@@ -71,6 +71,9 @@
 - Node       
 
     + [创建npm库](https://github.com/xiong-ang/Library/blob/master/Src/Node/%E5%88%9B%E5%BB%BAnpm%E5%BA%93.md)     
+	+ [Koa项目代码结构](https://github.com/liuyahuiZ/server-koa)           
+	+ [Express路由原理](https://github.com/xiong-ang/Http_Router)        
+	+ [静态文本服务器实现](https://github.com/xiong-ang/StaticWebServer)
 
 - RegExpre         
 
@@ -88,7 +91,11 @@
 	+ [六大设计原则](https://www.cnblogs.com/dolphin0520/p/3919839.html)           
 
 - Efficiency              
-	+ [Emmet + VS Code](http://www.cnblogs.com/summit7ca/p/6944215.html)
+	+ [Emmet + VS Code](http://www.cnblogs.com/summit7ca/p/6944215.html)                   
+- Database       
+	+ [DAO设计模式](https://blog.csdn.net/coderbruis/article/details/72723840)
+	+ [DAO设计视频教程](http://www.mldn.cn/course/75/task/1518/show)
+	+ [Nodejs DAO实现](https://github.com/xiong-ang/Node_DAO_Demo)
 
 ## Pending                               
 - Front-end Test     
