@@ -95,7 +95,10 @@
 - Database       
 	+ [DAO设计模式](https://blog.csdn.net/coderbruis/article/details/72723840)
 	+ [DAO设计视频教程](http://www.mldn.cn/course/75/task/1518/show)
-	+ [Nodejs DAO实现](https://github.com/xiong-ang/Node_DAO_Demo)
+	+ [Nodejs DAO实现](https://github.com/xiong-ang/Node_DAO_Demo)                  
+
+- Chromium          
+	+ [浏览器的工作原理](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)              
 
 ## Pending                               
 - Front-end Test     
