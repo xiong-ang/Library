@@ -76,6 +76,7 @@
 	+ [Koa项目代码结构](https://github.com/liuyahuiZ/server-koa)           
 	+ [Express路由原理](https://github.com/xiong-ang/Http_Router)        
 	+ [静态文本服务器实现](https://github.com/xiong-ang/StaticWebServer)
+	+ [NPM和Yarn添加淘宝镜像](https://www.cnblogs.com/jacksoft/p/7826564.html)
 
 - RegExpre         
 
