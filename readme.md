@@ -11,7 +11,9 @@
     + [Docker使用](https://github.com/xiong-ang/Library/blob/master/Src/Cloud/Docker%E4%BD%BF%E7%94%A8.md)
 - CodeDesign       
     + [WPF使用MVVM模式](https://github.com/xiong-ang/Library/blob/master/Src/CodeDesign/WPF%E4%BD%BF%E7%94%A8MVVM%E6%A8%A1%E5%BC%8F.md)
-    + [设计模式](https://github.com/xiong-ang/Library/blob/master/Src/CodeDesign/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
+    + [设计模式](https://github.com/xiong-ang/Library/blob/master/Src/CodeDesign/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)    
+	+ [架构模式](https://www.cnblogs.com/IcanFixIt/p/7518146.html)        
+	
 - COM       
 
     + [静态与动态链接库](https://github.com/xiong-ang/Library/blob/master/Src/COM/%E9%9D%99%E6%80%81%E4%B8%8E%E5%8A%A8%E6%80%81%E9%93%BE%E6%8E%A5%E5%BA%93.md)
