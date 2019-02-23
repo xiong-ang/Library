@@ -78,6 +78,8 @@
 	+ [Express路由原理](https://github.com/xiong-ang/Http_Router)        
 	+ [静态文本服务器实现](https://github.com/xiong-ang/StaticWebServer)
 	+ [NPM和Yarn添加淘宝镜像](https://www.cnblogs.com/jacksoft/p/7826564.html)
+	+ [Addon-工作线程进行JS回调](https://github.com/xiong-ang/Addon-MultiThread-JSCallback)
+	+ [Node Addons教程](https://nodeaddons.com/)
 
 - RegExpre         
 
