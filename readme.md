@@ -70,6 +70,7 @@
     + [RSJX](https://segmentfault.com/a/1190000012252368)   
     + [ES6 - Reflect & Proxy](https://blog.csdn.net/u013707249/article/details/78842602)
     + [This & Prototype & Constructor](http://www.cnblogs.com/tinkbell/p/3171303.html)
+    + [This](http://2ality.com/2017/12/alternate-this.html)
 
 - Interop       
 
