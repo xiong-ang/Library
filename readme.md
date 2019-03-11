@@ -17,6 +17,7 @@
 - COM       
 
     + [静态与动态链接库](https://github.com/xiong-ang/Library/blob/master/Src/COM/%E9%9D%99%E6%80%81%E4%B8%8E%E5%8A%A8%E6%80%81%E9%93%BE%E6%8E%A5%E5%BA%93.md)
+    + [COM vs DLL](https://github.com/xiong-ang/Library/blob/master/Src/COM/Com%20vs%20Dll.md)
 - .Net       
     + [C# Clipboard使用](https://github.com/xiong-ang/Library/blob/master/Src/DotNet/C%23%20Clipboard%E4%BD%BF%E7%94%A8.md)
     + [C#日志](https://github.com/xiong-ang/Library/blob/master/Src/DotNet/C%23%E6%97%A5%E5%BF%97.md)
