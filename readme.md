@@ -73,6 +73,10 @@
     + [This & Prototype & Constructor](http://www.cnblogs.com/tinkbell/p/3171303.html)
     + [This](http://2ality.com/2017/12/alternate-this.html)
 
+- Front-end Resource
+    + [ngx-admin](https://github.com/akveo/ngx-admin/)
+    + [汇总](https://github.com/AngularLovers/AngularCollections)
+ 
 - Interop       
 
     + [C++/CLI学习总结](https://github.com/xiong-ang/Library/blob/master/Src/Interop/C%2B%2BCLI%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93.md)                
