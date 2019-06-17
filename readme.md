@@ -99,6 +99,9 @@
   	* [基本理论](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
   	* [应用举例](https://developer.linkedin.com/zh-cn/docs/oauth2)
   	* [基本实现(待补充)](待补充)
+  + UAC
+  	* [UAC提权](https://www.cnblogs.com/Chesky/p/UAC_Bypass.html#_caption_3)
+	* [UAC](https://docs.microsoft.com/en-us/windows/security/identity-protection/user-account-control/user-account-control-overview)
 - [C++ Code Library](https://github.com/xiong-ang/CPPCodeLibrary)                 
 
 - Refactor              
