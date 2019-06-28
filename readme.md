@@ -120,7 +120,10 @@
 
 - Web CompareTool  
 	+ [WCT_UI](https://github.com/xiong-ang/WCT_UI)  
-	+ [WCT_Server](https://github.com/xiong-ang/WCT_server)  
+	+ [WCT_Server](https://github.com/xiong-ang/WCT_server)   
+- Debug   
+ 	+ [DebugView](https://www.cnblogs.com/hbccdf/p/csharp_debug_induction.html)    
+	
 ## Pending                               
 - Front-end Test     
 - P/Invoke    
