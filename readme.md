@@ -133,8 +133,10 @@
         * [Windbg Cmd](https://github.com/xiong-ang/Library/blob/master/Src/Windbg/WinDbg_cmds.pdf)
         * SOS Cmd
             - [官方版](http://windbg.xyz/article/view/10-SOS-Extension-Commands)
-            - [整理版](https://blog.csdn.net/xiaoyafang123/article/details/73512729)
-	
+            - [整理版](https://blog.csdn.net/xiaoyafang123/article/details/73512729)       
+- Encoding     
+    + [字符编码笔记：ASCII，Unicode 和 UTF-8](http://www.ruanyifeng.com/blog/2007/10/ascii_unicode_and_utf-8.html)     
+    
 ## Pending                               
 - Front-end Test     
 - P/Invoke    
