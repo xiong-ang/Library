@@ -78,6 +78,7 @@
     + [ES6 - Reflect & Proxy](https://blog.csdn.net/u013707249/article/details/78842602)
     + [This & Prototype & Constructor](http://www.cnblogs.com/tinkbell/p/3171303.html)
     + [This](http://2ality.com/2017/12/alternate-this.html)
+    + [JavaScript 中的对象深度复制](https://www.cnblogs.com/lzpong/p/6973003.html)     
 
 - Front-end Resource
     + [ngx-admin](https://github.com/akveo/ngx-admin/)
