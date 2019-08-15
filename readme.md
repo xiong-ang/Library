@@ -59,7 +59,8 @@
     + [SignalR](https://github.com/xiong-ang/SignalRDemo)             
     + [WebClient vs HttpClient vs HttpWebRequest](http://www.diogonunes.com/blog/webclient-vs-httpclient-vs-httpwebrequest/)
     + [WCF基础](https://www.cnblogs.com/iamlilinfeng/category/415833.html)
-    + [WebAPI - Swagger .Net core 配置](https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-2.2&tabs=netcore-cli)   
+    + [WebAPI - Swagger .Net core 配置](https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-2.2&tabs=netcore-cli)  
+    + [WebApi 跨域问题解决方案：CORS](https://www.cnblogs.com/landeanfen/p/5177176.html)      
 
 - OWIN & Katana  
     + [视频教程](http://www.jikexueyuan.com/course/1628_3.html)   
