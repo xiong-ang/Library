@@ -80,6 +80,7 @@
     + [This & Prototype & Constructor](http://www.cnblogs.com/tinkbell/p/3171303.html)
     + [This](http://2ality.com/2017/12/alternate-this.html)
     + [JavaScript 中的对象深度复制](https://www.cnblogs.com/lzpong/p/6973003.html)     
+    + [Deploy an Angular Application to IIS](https://blog.angularindepth.com/deploy-an-angular-application-to-iis-60a0897742e7)    
 
 - Front-end Resource
     + [ngx-admin](https://github.com/akveo/ngx-admin/)
@@ -132,8 +133,8 @@
 - Debug   
  	+ [DebugView](https://www.cnblogs.com/hbccdf/p/csharp_debug_induction.html)    
     + Windbg
-        * [Windbg Cmd](https://github.com/xiong-ang/Library/blob/master/Src/Windbg/WinDbg_cmds.pdf)
-        * SOS Cmd
+        * [Windbg Cmd](https://github.com/xiong-ang/Library/blob/master/Src/Windbg/WinDbg_cmds.pdf)  
+        * SOS Cmd  
             - [官方版](http://windbg.xyz/article/view/10-SOS-Extension-Commands)
             - [整理版](https://blog.csdn.net/xiaoyafang123/article/details/73512729)       
 - Encoding     
