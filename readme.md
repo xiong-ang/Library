@@ -10,7 +10,8 @@
 
     + [Docker使用](https://github.com/xiong-ang/Library/blob/master/Src/Cloud/Docker%E4%BD%BF%E7%94%A8.md)
 - CodeDesign       
-    + [WPF使用MVVM模式](https://github.com/xiong-ang/Library/blob/master/Src/CodeDesign/WPF%E4%BD%BF%E7%94%A8MVVM%E6%A8%A1%E5%BC%8F.md)
+    + [WPF使用MVVM模式](https://github.com/xiong-ang/Library/blob/master/Src/CodeDesign/WPF%E4%BD%BF%E7%94%A8MVVM%E6%A8%A1%E5%BC%8F.md)   
+    + [MVVM Factory](https://github.com/xiong-ang/MVVM-Factory)      
     + [设计模式](https://github.com/xiong-ang/Library/blob/master/Src/CodeDesign/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)    
 	+ [架构模式](https://www.cnblogs.com/IcanFixIt/p/7518146.html)        
 	
