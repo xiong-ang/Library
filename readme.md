@@ -34,7 +34,8 @@
     + [How to send WndProc messages](http://www.pinvoke.net/default.aspx/user32.sendmessage)             
     + [Windows文件处理](https://github.com/xiong-ang/FileProcesser)                                        
     + [IDisposable](https://www.cnblogs.com/xlshcn/archive/2007/01/16/idisposable.html)   
-    + [Delegate-Event-Action-Func](https://github.com/xiong-ang/Delegate-Event-Action-Func)   
+    + [Delegate-Event-Action-Func](https://github.com/xiong-ang/Delegate-Event-Action-Func)     
+    + [AssemblyInfo-工程化Demo](https://github.com/xiong-ang/AssemblyInfo)
 
 - Git       
     + [Git代码上传方式记录](https://github.com/xiong-ang/Library/blob/master/Src/Git/Git%E4%BB%A3%E7%A0%81%E4%B8%8A%E4%BC%A0%E6%96%B9%E5%BC%8F%E8%AE%B0%E5%BD%95.md)    
