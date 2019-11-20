@@ -85,6 +85,7 @@
     + [Deploy an Angular Application to IIS](https://blog.angularindepth.com/deploy-an-angular-application-to-iis-60a0897742e7)    
     + [Start Unit Test with Jasmine](https://jasmine.github.io/tutorials/your_first_suite)           
     + [Angular Unit Test](https://angular.io/guide/testing)     
+    + [Angular i18n](https://github.com/xiong-ang/Angular_i18n)    
 
 - Front-end Resource
     + [ngx-admin](https://github.com/akveo/ngx-admin/)
