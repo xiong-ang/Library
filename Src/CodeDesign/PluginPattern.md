@@ -60,7 +60,7 @@ public void Action()
 > 2. 指定catalog - 指定扩展的加载方式
 > 3. 创建Container   
 > 4. ComposeParts - 组合各部分      
-![](./PluginPattern.jpg)          
+![](https://github.com/xiong-ang/Library/blob/master/Pic/PluginPattern.jpg?raw=true)          
 
 **Container**： MEF提供了类似容器的概念，实现了Service的注册与发现，可以通过C#特性的方式实现类实例的注册与实体的注入。        
 **Plugin**： MEF提供了三种扩展发现方式：1）AssemblyCatalog在当前程序集发现部件；2）DirectoryCatalog在指定的目录发现部件；3）DeploymentCatalog在指定的XAP文件中发现部件（用于silverlight）    
