@@ -93,6 +93,7 @@
 - Front-end Resource
     + [ngx-admin](https://github.com/akveo/ngx-admin/)
     + [汇总](https://github.com/AngularLovers/AngularCollections)
+    + [前端Layout](https://github.com/xiong-ang/CSSLayout_Collection/blob/master/CSSLayout/readme.md)            
  
 - Interop       
 
