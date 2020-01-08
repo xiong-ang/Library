@@ -90,6 +90,10 @@
     + [Angular Unit Test](https://angular.io/guide/testing)     
     + [Angular i18n](https://github.com/xiong-ang/Angular_i18n)    
     + [Angular 路由守卫](https://segmentfault.com/a/1190000010851032)   
+    + [Scroll Bar Skills](https://github.com/xiong-ang/ScrollBarDemo)     
+    + [DragDrop Skills](https://github.com/xiong-ang/Library/blob/master/Src/Front-end/DragDrop.md)    
+    + [Show ... When Overflow](https://github.com/xiong-ang/Library/blob/master/Src/Front-end/Overflow.md)      
+
 
 - Front-end Resource
     + [ngx-admin](https://github.com/akveo/ngx-admin/)
