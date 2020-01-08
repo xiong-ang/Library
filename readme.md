@@ -89,6 +89,7 @@
     + [Start Unit Test with Jasmine](https://jasmine.github.io/tutorials/your_first_suite)           
     + [Angular Unit Test](https://angular.io/guide/testing)     
     + [Angular i18n](https://github.com/xiong-ang/Angular_i18n)    
+    + [Angular 路由守卫](https://segmentfault.com/a/1190000010851032)   
 
 - Front-end Resource
     + [ngx-admin](https://github.com/akveo/ngx-admin/)
