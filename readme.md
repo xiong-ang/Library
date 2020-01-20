@@ -66,6 +66,8 @@
     + [WebAPI - Swagger .Net core 配置](https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-2.2&tabs=netcore-cli)  
     + [WebApi 跨域问题解决方案：CORS](https://www.cnblogs.com/landeanfen/p/5177176.html)      
     + [GraphQL](https://github.com/xiong-ang/Library/blob/master/Src/Web/GraphQL.md)       
+    + [curl使用](http://www.ruanyifeng.com/blog/2019/09/curl-reference.html)    
+    + [Nginx配置](https://www.cnblogs.com/jingmoxukong/p/5945200.html)      
 
 - OWIN & Katana  
     + [视频教程](http://www.jikexueyuan.com/course/1628_3.html)   
@@ -93,7 +95,7 @@
     + [Scroll Bar Skills](https://github.com/xiong-ang/ScrollBarDemo)     
     + [DragDrop Skills](https://github.com/xiong-ang/Library/blob/master/Src/Front-end/DragDrop.md)    
     + [Show ... When Overflow](https://github.com/xiong-ang/Library/blob/master/Src/Front-end/Overflow.md)      
-
+    + [Angular跨域代理](https://github.com/angular/angular-cli/blob/master/docs/documentation/stories/proxy.md)     
 
 - Front-end Resource
     + [ngx-admin](https://github.com/akveo/ngx-admin/)
