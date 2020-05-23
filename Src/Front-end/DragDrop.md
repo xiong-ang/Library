@@ -10,7 +10,9 @@
     ondragover - 当某被拖动的对象在另一对象容器范围内拖动时触发此事件       
     ondragleave - 当被鼠标拖动的对象离开其容器范围内时触发此事件        
     ondrop - 在一个拖动过程中，释放鼠标键时触发此事件     
-[Reference](https://www.cnblogs.com/moqiutao/p/6365113.html)     
+## Reference     
+[1](https://www.cnblogs.com/moqiutao/p/6365113.html)  
+[2](https://www.cnblogs.com/xiaohuochai/p/5886618.html)
 
 ## Important Methods
 1. ev.stopPropagation(); 阻止子元素向父元素的事件冒泡    
