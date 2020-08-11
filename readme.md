@@ -49,7 +49,8 @@
     + [EngjoyDrawing总结](https://github.com/xiong-ang/Library/blob/master/Src/JustDoIt/EngjoyDrawing%E6%80%BB%E7%BB%93.md)
 - Linux       
 
-    + [Linux基础](https://github.com/xiong-ang/Library/blob/master/Src/Linux/Linux%E5%9F%BA%E7%A1%80.md)
+    + [Linux基础](https://github.com/xiong-ang/Library/blob/master/Src/Linux/Linux%E5%9F%BA%E7%A1%80.md)   
+    + [细说Linux-从入门到精通视频教程](https://study.163.com/course/introduction.htm?courseId=983014#/courseDetail?tab=1)        
 - Product       
 
     + [可编程控制器](https://github.com/xiong-ang/Library/blob/master/Src/Product/%E5%8F%AF%E7%BC%96%E7%A8%8B%E6%8E%A7%E5%88%B6%E5%99%A8.md)           
