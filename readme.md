@@ -150,11 +150,15 @@
 	+ [WCT_Server](https://github.com/xiong-ang/WCT_server)   
 - Debug   
  	+ [DebugView](https://www.cnblogs.com/hbccdf/p/csharp_debug_induction.html)    
-    + Windbg
-        * [Windbg Cmd](https://github.com/xiong-ang/Library/blob/master/Src/Windbg/WinDbg_cmds.pdf)  
-        * SOS Cmd  
-            - [官方版](http://windbg.xyz/article/view/10-SOS-Extension-Commands)
-            - [整理版](https://blog.csdn.net/xiaoyafang123/article/details/73512729)       
+    	+ Windbg
+        	* [Windbg Cmd](https://github.com/xiong-ang/Library/blob/master/Src/Windbg/WinDbg_cmds.pdf)  
+        	* SOS Cmd  
+            		- [官方版](http://windbg.xyz/article/view/10-SOS-Extension-Commands)
+            		- [整理版](https://blog.csdn.net/xiaoyafang123/article/details/73512729)        
+	   
+- Java    
+	+ [JDBC学习示例](https://github.com/xiong-ang/JDBCLearningProject)       
+	
 - Encoding     
     + [字符编码笔记：ASCII，Unicode 和 UTF-8](http://www.ruanyifeng.com/blog/2007/10/ascii_unicode_and_utf-8.html)     
     
