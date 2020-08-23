@@ -157,7 +157,8 @@
             		- [整理版](https://blog.csdn.net/xiaoyafang123/article/details/73512729)                             
 	   
 - Java    
-	+ [JDBC学习示例](https://github.com/xiong-ang/JDBCLearningProject)       
+	+ [JDBC学习示例](https://github.com/xiong-ang/JDBCLearningProject)           
+	+ [Class对象 & 反射 & Proxy](https://www.cnblogs.com/zyly/p/10727511.html)              
 	
 - Encoding     
     + [字符编码笔记：ASCII，Unicode 和 UTF-8](http://www.ruanyifeng.com/blog/2007/10/ascii_unicode_and_utf-8.html)     
