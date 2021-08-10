@@ -162,8 +162,9 @@
 	
 - Encoding     
     + [字符编码笔记：ASCII，Unicode 和 UTF-8](http://www.ruanyifeng.com/blog/2007/10/ascii_unicode_and_utf-8.html)   
-- CMake
-    + [CMake配置grpc](https://github.com/xiong-ang/cmake_grpc_demo)           
+- C++
+    + [CMake配置grpc](https://github.com/xiong-ang/cmake_grpc_demo)      
+    + [C++字符集经典分析](https://www.cnblogs.com/wliangde/p/4073607.html)          
 - GO
     + [goroutine背后的系统知识](http://www.sizeofvoid.net/goroutine-under-the-hood/)      
     
