@@ -167,7 +167,9 @@
     + [C++字符集经典分析](https://www.cnblogs.com/wliangde/p/4073607.html)          
 - GO
     + [goroutine背后的系统知识](http://www.sizeofvoid.net/goroutine-under-the-hood/)      
-    
+- Performance     
+    + [Linux Performance](https://brendangregg.com/linuxperf.html)      
+
 ## Pending                               
 - Front-end Test     
 - P/Invoke    
