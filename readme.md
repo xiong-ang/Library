@@ -172,7 +172,8 @@
     + [CMake配置grpc](https://github.com/xiong-ang/cmake_grpc_demo)      
     + [C++字符集经典分析](https://www.cnblogs.com/wliangde/p/4073607.html)              
 - Performance     
-    + [Linux Performance](https://brendangregg.com/linuxperf.html)      
+    + [Linux Performance](https://brendangregg.com/linuxperf.html)    
+    + [High Load Average](https://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html)  
 
 ## Pending                               
 - Front-end Test     
